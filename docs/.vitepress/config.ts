@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: '设计课程-第一期',
-  description: 'Datawhale设计课程第一期正式版',
+  title: '设计探索之旅',
+  description: '探索式设计课程 - 从基础到实践',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
@@ -12,11 +12,12 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: '课程内容',
+        text: '学习路线',
         items: [
-          { text: '第一章 设计基础', link: '/chapter1/' },
-          { text: '第二章 设计原则', link: '/chapter2/' },
-          { text: '第三章 实践项目', link: '/chapter3/' },
+          { text: '首页', link: '/' },
+          { text: '1. 设计基础', link: '/chapter1/' },
+          { text: '2. 设计原则', link: '/chapter2/' },
+          { text: '3. 实践项目', link: '/chapter3/' },
         ]
       }
     ]
