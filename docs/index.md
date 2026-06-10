@@ -133,7 +133,7 @@ title: 设计课程第一期
     </div>
   </a>
   
-  <a href="chapter3/" class="nav-card">
+  <a href="/VC-Lab/chapter3/" class="nav-card">
     <div class="nav-card-icon">🚀</div>
     <div class="nav-card-title">第三章</div>
     <div class="nav-card-subtitle">视觉创造与成果展示</div>
