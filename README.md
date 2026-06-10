@@ -52,8 +52,11 @@
 
 ## 关注我们
 
-扫描下方二维码关注公众号：Datawhale
-<img width="419" height="419" alt="image" src="https://github.com/user-attachments/assets/42c9550a-509b-45f3-8027-b808b3369b11" />
+<div align=center>
+<p>扫描下方二维码关注公众号：Datawhale</p>
+<img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width = "180" height = "180">
+</div>
+
 ## LICENSE
 
 本作品采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/)进行许可。
