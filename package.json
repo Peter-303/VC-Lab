@@ -2,6 +2,7 @@
   "name": "design-course",
   "version": "1.0.0",
   "description": "设计课程-第一期",
+  "type": "module",
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",

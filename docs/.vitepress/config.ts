@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: '设计探索之旅',
-  description: '探索式设计课程 - 从基础到实践',
+  title: '设计思维创造营',
+  description: '用14天，从生活洞察出发，亲手将模糊的"不爽"变成可视化产品概念',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
@@ -15,9 +15,9 @@ export default defineConfig({
         text: '学习路线',
         items: [
           { text: '首页', link: '/' },
-          { text: '1. 设计基础', link: '/chapter1/' },
-          { text: '2. 设计原则', link: '/chapter2/' },
-          { text: '3. 实践项目', link: '/chapter3/' },
+          { text: '第一章：认知唤醒与问题洞察', link: '/chapter1/' },
+          { text: '第二章：战略分析与概念定义', link: '/chapter2/' },
+          { text: '第三章：视觉创造与成果展示', link: '/chapter3/' },
         ]
       }
     ]
