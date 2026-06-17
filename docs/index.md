@@ -177,7 +177,6 @@ title: 设计课程第一期
 <div style="margin-left: 24px; margin-top: 12px; color: #999; font-style: italic; font-size: 0.85em;">
   特别提醒：第一章任务三产出的选项确认表（5份）为中间过程文件，不列入最终核心产出，但建议保留作为设计过程的证据。
 </div>
----
 
 ## 🛠️ 工具卡汇总
 
