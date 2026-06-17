@@ -174,7 +174,9 @@ title: 设计课程第一期
   <input type="checkbox" disabled>
   <label>概念故事板（最终产出）</label>
 </div>
-
+<div style="margin-left: 24px; margin-top: 12px; color: #999; font-style: italic; font-size: 0.85em;">
+  特别提醒：第一章任务三产出的选项确认表（5份）为中间过程文件，不列入最终核心产出，但建议保留作为设计过程的证据。
+</div>
 ---
 
 ## 🛠️ 工具卡汇总
@@ -189,7 +191,6 @@ title: 设计课程第一期
 | 工具卡3 | 产品设计蓝图绘制指南 | Day 9 | 第二章·任务九 |
 | 工具卡4 | 语义定义与转化 | Day 8 | 第二章·任务八 |
 
----
 
 ## 💝 学习建议
 
